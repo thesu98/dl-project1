@@ -9,6 +9,7 @@ data augment strategies to optimize the network. Eventually, we get a good netwo
 size of parameters in which is less than 5m, and the max accuracy can be
 up to 93.75% on training CIFAR-10.
 
+For running this file:
 Put the AutoAugment.py and ops.py into any folder, and change the code in second block-
 “C:\Users\suxin\PycharmProjects\pythonProject” to the folder path which you save that two-
 .py file before. Then click run button (for jupyter notebook) to run all cell.
